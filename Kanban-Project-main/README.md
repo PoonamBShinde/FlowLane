@@ -1,6 +1,6 @@
-# PlanDeck
+# FlowLane
 
-**PlanDeck** is a sleek and responsive Kanban-style task management application built with **Vite** and **TypeScript**. It helps you organize your tasks into projects and visually manage them using drag-and-drop across three standard columns: **To Do**, **In Progress**, and **Done**.
+**FlowLane** is a sleek and responsive Kanban-style task management application built with **Vite** and **TypeScript**. It helps you organize your tasks into projects and visually manage them using drag-and-drop across three standard columns: **To Do**, **In Progress**, and **Done**.
 
 ---
 
@@ -8,7 +8,7 @@
 
 Checkout the live demo of CartLoop:
 
-[PlanDeck](https://flowlane.vercel.app)
+[FlowLane](https://flowlane.vercel.app)
 
 ---
 
